@@ -62,6 +62,11 @@ print(query, answer)
 
 ### sketch.howto [write]
 
+Howto is the basic "code-writing" prompt in sketch. This will return a
+code-block you should be able to copy paste and use as a starting point (or
+possibly ending!) for any question you have to ask of the data. Ask this how to
+clean the data, normalize, create new features, plot, and even build models!
+
 :::form
 
 ```python
@@ -96,11 +101,6 @@ sales_data[["Purchase Address", "City", "State", "Zipcode"]]
 :::
 
 ### sketch.howto [read]
-
-Howto is the basic "code-writing" prompt in sketch. This will return a
-code-block you should be able to copy paste and use as a starting point (or
-possibly ending!) for any question you have to ask of the data. Ask this how to
-clean the data, normalize, create new features, plot, and even build models!
 
 :::form
 
