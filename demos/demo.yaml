@@ -1,0 +1,12 @@
+organizationName: Approximate Labs
+portalName: Approximate Labs Demos
+socials:
+  website: https://www.approximatelabs.com
+  documentation: https://github.com/approximatelabs/sketch
+demos:
+  - id: sketch-demo
+    showCode: true
+  - id: sketch-ask
+    showCode: true
+  - id: sketch-howto
+    showCode: true
